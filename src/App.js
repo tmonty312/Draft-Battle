@@ -5,7 +5,9 @@ class App extends Component {
     return (
       <div>
         <header>
-          Draft Battle
+          <h1>
+            Draft Battle
+          </h1>
         </header>
       </div>
     );
